@@ -1,0 +1,23 @@
+{
+    "dataset_size": 400,
+    "class_distribution": {
+        "1": 200,
+        "0": 200
+    },
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "fpr": 0.0,
+    "fnr": 0.0,
+    "embedding_time_ms": 389.08982276916504,
+    "confusion_matrix": [
+        [
+            40,
+            0
+        ],
+        [
+            0,
+            40
+        ]
+    ]
+}
